@@ -1,0 +1,30 @@
+header {
+  background-color: #ffd9b3;
+}
+
+.info {
+  background-color: #ecc6d9;
+  color: #000080;
+  text-align: center;
+}
+
+.car_name {
+  background-color: #4db8ff ;
+  color: #663300 ;
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.main {
+  border-style: groove;
+  border-color: #336600;
+  border-width: 10px 5px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
